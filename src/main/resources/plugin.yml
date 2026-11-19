@@ -1,0 +1,11 @@
+name: NoVaults
+version: 1.0.0
+main: dev.novaults.NoVaults
+api-version: "1.21"
+description: Disables trial chamber vaults (normal and ominous).
+author: you
+
+permissions:
+  novaults.bypass:
+    description: Allows opening vaults even while they are disabled.
+    default: op

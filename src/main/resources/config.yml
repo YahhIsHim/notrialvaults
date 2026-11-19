@@ -1,0 +1,6 @@
+# Message shown to players who try to open a vault. Use "" to send nothing.
+message: "&cVaults are disabled on this server."
+
+# If true, players with the permission novaults.bypass (ops by default) can still use vaults.
+# Set to false to block everyone, including ops.
+allow-bypass: true
